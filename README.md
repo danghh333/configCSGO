@@ -1,1 +1,2 @@
 # configCSGO
+config của kweitei
